@@ -4,5 +4,5 @@ import { defineConfig } from 'vite';
 // https://vitejs.dev/config/
 export default defineConfig({
     plugins: [react()],
-    base: 'rock-paper-scissors-game'
+    base: '/rock-paper-scissors-game'
 });
