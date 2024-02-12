@@ -1,6 +1,7 @@
 {
   "name": "rock-paper-scissors-game",
   "author": "Léo Jacquet <leojacquet2003@gmail.com>",
+  "license": "MIT",
   "private": true,
   "version": "1.0.0",
   "type": "module",
